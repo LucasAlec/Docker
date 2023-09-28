@@ -6,7 +6,7 @@ Small docker guide
 ### Docker network check
 
 ```bash
-$ docket network ls
+$ docker network ls
 ```
 
 ### Docker network creation(if not exists)
